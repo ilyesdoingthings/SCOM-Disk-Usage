@@ -2,7 +2,7 @@
 
 This article provides a PowerShell script that gathers disk usage and then sends the report. I also describe the steps to configure a diagnostic task on a "disk full" alert in SCOM.
 
-## introduction : 
+## introduction
 
 It may happen because we sized a disk wrongly, did not expect growth of the WinSxS folder, neglected to stop IIS logging during troubleshooting, or because the developer did not implement a log-cleanup routine in her application. Full disks can have many reasons.
 
@@ -12,4 +12,10 @@ Diagnostic tasks in SCOM can run scripts or commands directly on the affected ma
 
 ![image](https://user-images.githubusercontent.com/26825056/199241994-07480194-39bb-4974-b22e-67772656cf0a.png)
 
-## Preparing SCOM : 
+## Preparing SCOM 
+
+By default, only VBScript can create diagnostic and recovery tasks. Download and install a free, open-source PowerShell community management pack on GitHub to use PowerShell. You likely have already imported management packs for Windows Server operating systems.
+
+## PowerShell script 
+
+
