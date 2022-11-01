@@ -4,9 +4,9 @@ $startDirectory         = $Arguments + '\'
 
 $numberOfTopDirectories = 5
 $numberOfTopFiles       = 5
-$emailTo                = 's.youssef@wic-sa.com'
-$smtpSrv                = 'notif-scom@wic-sa.com'
-$emailFrom              = 'diskSpaceDetail@wic-sa.com'
+$emailTo                = 'ilyes.ennaceur@rfc.com.tn'
+$smtpSrv                = 'notif-scom@rfc.com.tn'
+$emailFrom              = 'diskSpaceDetail@rfc.com.tn'
 
 #region Get-Metadata
 
