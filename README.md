@@ -10,7 +10,8 @@ The first step when receiving an alert about a filling disk is to RDP into a ser
 
 Diagnostic tasks in SCOM can run scripts or commands directly on the affected machine when an alert occurs.
 
-![image](https://user-images.githubusercontent.com/26825056/199241994-07480194-39bb-4974-b22e-67772656cf0a.png)
+![image](https://user-images.githubusercontent.com/26825056/199245887-a207793b-b082-4b52-960c-8e10a791da03.png)
+
 
 ## Preparing SCOM 
 
