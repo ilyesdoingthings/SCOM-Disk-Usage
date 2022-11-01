@@ -48,7 +48,7 @@ Optionally you can adjust the values for the number of directories ($numberOfTop
 
 Finaly, Initiate the task creation by clicking Create. Depending on your environment, this may take a while.
 
-![image](https://user-images.githubusercontent.com/26825056/199244885-ae994c12-046e-45ba-a13f-1e91b259aede.png)
+![image](https://user-images.githubusercontent.com/26825056/199246435-2ad138a6-862e-4106-9320-0b0943b44818.png)
 
 ![image](https://user-images.githubusercontent.com/26825056/199244932-33821fee-cc00-4bcb-8b6d-820b13c19fc8.png)
 
