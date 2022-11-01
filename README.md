@@ -1,4 +1,4 @@
-## Microsoft SCOM Server
+## Microsoft SCOM Server - Disk Usage and Report 
 
 This article provides a PowerShell script that gathers disk usage and then sends the report. I also describe the steps to configure a diagnostic task on a "disk full" alert in SCOM.
 
