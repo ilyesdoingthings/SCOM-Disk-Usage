@@ -21,6 +21,8 @@ By default, only VBScript can create diagnostic and recovery tasks. Download and
 
 ![image](https://user-images.githubusercontent.com/26825056/199244227-e85c3588-68dd-4eff-bbca-b225612cee00.png)
 
+Visit https://github.com/ilyesdoingthings/SCOM-Disk-Usage
+
 ## Create the diagnostic task 
 
 In the SCOM console, switch to the Authoring pane and expand Management Pack Objects and Monitors. Limit the search to logical disk. Right click Windows [20XX] Logical Disk Free Space Monitor.
